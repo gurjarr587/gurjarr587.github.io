@@ -519,8 +519,8 @@ iframe {
     text-align: center;
   }
   .header .profile-image {
-    float: none !important;
-    margin: 0 auto;
+	max-width:100px;
+	height:100px;
   }
   .header .profile-content {
     float: none !important;
